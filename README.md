@@ -29,7 +29,7 @@ I'm **Shu0T1an**, a Full Stack Developer focused on AI Agent systems.
 ![MCP](https://img.shields.io/badge/MCP-Protocol-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791)
 
-## 📦 Featured Project
+## 📦 Featured Projects
 
 ### [Hello-Agent](https://github.com/Shu0T1an/Hello-Agent)
 
@@ -43,13 +43,21 @@ I'm **Shu0T1an**, a Full Stack Developer focused on AI Agent systems.
 
 **Tech**: Java 21 | Spring Boot 3.3 | Vue 3 | PostgreSQL | WebFlux
 
-## 📊 Stats
+### [big-market](https://github.com/Shu0T1an/big-market)
 
-![Shu0T1an's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shu0T1an&show_icons=true&theme=neutral)
+> DDD 架构脚手架项目 | DDD Architecture Scaffold
+
+- **Domain-Driven Design** - Clean architecture with layered modules
+- **Multi-module Structure** - API, Domain, Infrastructure, Trigger layers
+- **Enterprise-grade** - Production-ready patterns for scalable systems
+
+**Tech**: Java | Spring Boot | DDD Architecture
+
+
 
 ## 📫 Get in Touch
 
-- 📧 Email: [Contact me](mailto:your-email@example.com)
+- 📧 Email: [Contact me](mailto:tianshuo20000812@gmail.com)
 - 💼 GitHub: [Shu0T1an](https://github.com/Shu0T1an)
 
 ---
